@@ -6,4 +6,10 @@ I am aware the formatting is off. Will be fixed later.
 
 ![sample](./sample.png)
 
-Inspired by [pi](https://github.com/tobyjamesthomas/pi)
+## How to use
+
+1. Copy `lambda.zsh-theme` into `~/.oh-my-zsh/custom/themes`
+2. Set `ZSH_THEME="lambda"` in `~/.zshrc`
+
+## Inspiration
+[pi](https://github.com/tobyjamesthomas/pi)
